@@ -1,6 +1,6 @@
 # Demo Application 
 
-This is a Hybrid APP creadted on ionic+Angular framework.  Here I used cordova to complie it.
+This is a Hybrid APP created on ionic+Angular framework.  Here I used cordova to complie it.
 
 ## Install 
 
